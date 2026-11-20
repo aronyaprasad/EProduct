@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "EProduct.Domain.Entities/1.0.0": {
+        "runtime": {
+          "EProduct.Domain.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EProduct.Domain.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

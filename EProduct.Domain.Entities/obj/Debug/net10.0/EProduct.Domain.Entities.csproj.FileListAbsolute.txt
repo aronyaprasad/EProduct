@@ -1,0 +1,12 @@
+D:\E-Product\EProduct\EProduct.Domain.Entities\bin\Debug\net10.0\EProduct.Domain.Entities.deps.json
+D:\E-Product\EProduct\EProduct.Domain.Entities\bin\Debug\net10.0\EProduct.Domain.Entities.dll
+D:\E-Product\EProduct\EProduct.Domain.Entities\bin\Debug\net10.0\EProduct.Domain.Entities.pdb
+D:\E-Product\EProduct\EProduct.Domain.Entities\obj\Debug\net10.0\EProduct.Domain.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\E-Product\EProduct\EProduct.Domain.Entities\obj\Debug\net10.0\EProduct.Domain.Entities.AssemblyInfoInputs.cache
+D:\E-Product\EProduct\EProduct.Domain.Entities\obj\Debug\net10.0\EProduct.Domain.Entities.AssemblyInfo.cs
+D:\E-Product\EProduct\EProduct.Domain.Entities\obj\Debug\net10.0\EProduct.Domain.Entities.csproj.CoreCompileInputs.cache
+D:\E-Product\EProduct\EProduct.Domain.Entities\obj\Debug\net10.0\EProduct.Domain.Entities.dll
+D:\E-Product\EProduct\EProduct.Domain.Entities\obj\Debug\net10.0\refint\EProduct.Domain.Entities.dll
+D:\E-Product\EProduct\EProduct.Domain.Entities\obj\Debug\net10.0\EProduct.Domain.Entities.pdb
+D:\E-Product\EProduct\EProduct.Domain.Entities\obj\Debug\net10.0\ref\EProduct.Domain.Entities.dll
+D:\E-Product\EProduct\EProduct.Domain.Entities\obj\Debug\net10.0\EProduct.D7081D80.Up2Date

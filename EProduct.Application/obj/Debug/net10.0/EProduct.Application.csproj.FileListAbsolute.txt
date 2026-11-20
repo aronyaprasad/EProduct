@@ -1,0 +1,15 @@
+D:\E-Product\EProduct\EProduct.Application\bin\Debug\net10.0\EProduct.Application.deps.json
+D:\E-Product\EProduct\EProduct.Application\bin\Debug\net10.0\EProduct.Application.dll
+D:\E-Product\EProduct\EProduct.Application\bin\Debug\net10.0\EProduct.Application.pdb
+D:\E-Product\EProduct\EProduct.Application\bin\Debug\net10.0\EProduct.Domain.Entities.dll
+D:\E-Product\EProduct\EProduct.Application\bin\Debug\net10.0\EProduct.Domain.Entities.pdb
+D:\E-Product\EProduct\EProduct.Application\obj\Debug\net10.0\EProduct.Application.csproj.AssemblyReference.cache
+D:\E-Product\EProduct\EProduct.Application\obj\Debug\net10.0\EProduct.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\E-Product\EProduct\EProduct.Application\obj\Debug\net10.0\EProduct.Application.AssemblyInfoInputs.cache
+D:\E-Product\EProduct\EProduct.Application\obj\Debug\net10.0\EProduct.Application.AssemblyInfo.cs
+D:\E-Product\EProduct\EProduct.Application\obj\Debug\net10.0\EProduct.Application.csproj.CoreCompileInputs.cache
+D:\E-Product\EProduct\EProduct.Application\obj\Debug\net10.0\EProduct.41BA45AC.Up2Date
+D:\E-Product\EProduct\EProduct.Application\obj\Debug\net10.0\EProduct.Application.dll
+D:\E-Product\EProduct\EProduct.Application\obj\Debug\net10.0\refint\EProduct.Application.dll
+D:\E-Product\EProduct\EProduct.Application\obj\Debug\net10.0\EProduct.Application.pdb
+D:\E-Product\EProduct\EProduct.Application\obj\Debug\net10.0\ref\EProduct.Application.dll
